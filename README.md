@@ -87,3 +87,11 @@ on remote sensing processes, the short vegetation problem, and
 detailed descriptions of development of, application of, and
 classification results from the statistical techniques discussed
 above.
+
+## About me
+
+Work/projects: https://www.linkedin.com/in/ykouskoulas
+
+Publications:  https://orcid.org/0000-0001-7347-7473
+
+This repo:     https://github.com/ykouskoulas/remote-sensing
